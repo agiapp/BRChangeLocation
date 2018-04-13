@@ -11,13 +11,11 @@
      
      -->
     
-    <!--  如果要想知道任意位置的坐标，去高德地图 http://lbs.amap.com/console/show/picker，选中自己坐标，修改下面的值-->
-    <!--  打卡坐标1：120.183496, 30.18969  -->
-    <!--  打卡坐标2：120.182165, 30.189829  -->
-    <!--  打卡坐标3：120.181656, 30.190803  -->
-    <wpt lat="30.190803" lon="120.181656">
+    <!--  创业软件 打卡坐标（WGS坐标系值）：120.181512, 30.190756  -->
+    <wpt lat="30.190756" lon="120.181512">
+    <!--  宝龙城 打卡坐标（WGS坐标系值）：120.163064, 30.190996  -->
+<!--    <wpt lat="30.190996" lon="120.163064">-->
         <name>Cupertino</name>
-        
         <!--
          Optionally provide a time element for each waypoint. Xcode will interpolate movement
          at a rate of speed based on the time elapsed between each waypoint. If you do not provide
